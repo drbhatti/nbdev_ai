@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_ai"
+  site-url: "https://drbhatti.github.io/nbdev_ai"
+  description: "Test project for nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/drbhatti/nbdev_ai"
